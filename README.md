@@ -1,2 +1,2 @@
 # Clock
-This is a weather web app using HTML, CSS and JavaScript
+This is a clock using HTML, CSS and JavaScript
